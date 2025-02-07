@@ -20,7 +20,7 @@ The **AI Text Summarizer** is a web application that allows users to upload **PD
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/YawB2005/Ai-summarizer.git
+   git clone https://github.com/YawB2005/AI-summarizer.git
    cd ai-text-summarizer
 
    Create a virtual environment and activate it:
